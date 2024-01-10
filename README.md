@@ -15,6 +15,8 @@ I’m currently working, developing and play around ...
 - 🌱Next JS
 - 🌱Angular
 - 🌱Azure
+- 🌱Python
+- 🌱C++
   
 📫 Email @subhaboopathy538@gmail.com
 
