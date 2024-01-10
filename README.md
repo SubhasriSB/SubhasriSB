@@ -4,7 +4,7 @@ I’m Subhasri Boopathy
 
 ✨Information Tech Software Dev✨ 
 
-I’m currently working, developing and play around ...
+I’m currently working, developing and play around with...
  
 - 🌱JAVA
 - 🌱Spring Boot
@@ -24,7 +24,7 @@ The only way to learn code is to write a lot of code - Aristoteles😄
                                    
 Fun fact :
 
-Solving Real-Worls issues through Technology is a Beautifu Feeling 💞 
+Solving Real-World issues through Technology is a Beautifu Feeling 💞 
 
 So Keep at it... Keep Coding :)⚡
 
