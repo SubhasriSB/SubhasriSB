@@ -2,7 +2,7 @@ Hi Solitude👋
 
 I’m Subhasri Boopathy
 
-✨Information Tech Software Dev✨ 
+✨IT Software Developer✨ 
 
 I’m currently working, developing and play around with...
  
