@@ -2,23 +2,25 @@ Hi Solitude👋
 
 I’m Subhasri Boopathy
 
-✨Application Software Developer✨ 
+✨Software Developer✨ 
 
-I’m currently working, developing and play around with...
+I’m currently working, developing and play around with the below tech stacks...
  
 🌱 - JAVA
 🌱 - Spring Boot
 🌱 - Microservices
+🌱 - Azure
 🌱 - MySQL/SQL
+🌱 - APIGEE
 🌱 - Front-End [HTML/CSS/JS]
 🌱 - React JS
 🌱 - Next JS
 🌱 - Angular
-🌱 - Azure
 🌱 - Python
 🌱 - C++
-🌱 - APIGEE
-  
+🌱 - .NET
+
+Feel Free to reach out to me  
 📫 subhaboopathy538@gmail.com
 
 The only way to learn code is to write a lot of code - Aristoteles😄
